@@ -1,11 +1,33 @@
-#Print Numbers
-print(3)
-print(358)
-print(50000)
+#first example
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
 
-#You can also do math inside the print() function:
-print(3 + 3)
-print(2 * 5)
+print(type(x))
+print(type(y))
+print(type(z))
 
-#Mix Text and Numbers
-print("I am", 35, "years old.")
+#Int
+x = 1
+y = 35656222554887711
+z = -3255522
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+#Float
+x = 1.10
+y = 1.0
+z = -35.59
+print(type(x))
+print(type(y))
+print(type(z))
+
+
+x = 35e3
+y = 12E4
+z = -87.7e100
+print(type(x))
+print(type(y))
+print(type(z))
