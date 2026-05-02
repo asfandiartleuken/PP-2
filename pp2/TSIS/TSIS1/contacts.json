@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Asfandiar",
+        "surname": "Tleuken",
+        "email": "asfandiar@gmail.com",
+        "birthday": "2000-01-01",
+        "group_name": "Family",
+        "phones": [
+            {
+                "phone": "7771234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "John",
+        "surname": "Doe",
+        "email": "john@doe.com",
+        "birthday": "1995-05-15",
+        "group_name": "Work",
+        "phones": [
+            {
+                "phone": "1234567890",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Jane",
+        "surname": "Smith",
+        "email": "jane@smith.com",
+        "birthday": "1990-10-20",
+        "group_name": "Friend",
+        "phones": [
+            {
+                "phone": "9876543210",
+                "type": "home"
+            }
+        ]
+    }
+]
